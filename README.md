@@ -83,7 +83,7 @@ endmodule
 
 
 <img width="645" height="87" alt="TT3" src="https://github.com/user-attachments/assets/37e33bb3-d647-45d5-b610-c255d7e41b8b" />
-<img width="1237" height="702" alt="Screenshot 2026-11-06 190537" src="https://github.com/user-attachments/assets/1aae7ac3-2863-4110-be04-b28b4f4ea33a" />
+
 
 
 ### Simulation Procedure
